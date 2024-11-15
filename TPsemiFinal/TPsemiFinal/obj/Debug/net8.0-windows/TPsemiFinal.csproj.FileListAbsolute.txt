@@ -1,0 +1,16 @@
+D:\Codes\C#\TPsemiFinal\TPsemiFinal\bin\Debug\net8.0-windows\TPsemiFinal.exe
+D:\Codes\C#\TPsemiFinal\TPsemiFinal\bin\Debug\net8.0-windows\TPsemiFinal.deps.json
+D:\Codes\C#\TPsemiFinal\TPsemiFinal\bin\Debug\net8.0-windows\TPsemiFinal.runtimeconfig.json
+D:\Codes\C#\TPsemiFinal\TPsemiFinal\bin\Debug\net8.0-windows\TPsemiFinal.dll
+D:\Codes\C#\TPsemiFinal\TPsemiFinal\bin\Debug\net8.0-windows\TPsemiFinal.pdb
+D:\Codes\C#\TPsemiFinal\TPsemiFinal\obj\Debug\net8.0-windows\TPsemiFinal.Form1.resources
+D:\Codes\C#\TPsemiFinal\TPsemiFinal\obj\Debug\net8.0-windows\TPsemiFinal.csproj.GenerateResource.cache
+D:\Codes\C#\TPsemiFinal\TPsemiFinal\obj\Debug\net8.0-windows\TPsemiFinal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\C#\TPsemiFinal\TPsemiFinal\obj\Debug\net8.0-windows\TPsemiFinal.AssemblyInfoInputs.cache
+D:\Codes\C#\TPsemiFinal\TPsemiFinal\obj\Debug\net8.0-windows\TPsemiFinal.AssemblyInfo.cs
+D:\Codes\C#\TPsemiFinal\TPsemiFinal\obj\Debug\net8.0-windows\TPsemiFinal.csproj.CoreCompileInputs.cache
+D:\Codes\C#\TPsemiFinal\TPsemiFinal\obj\Debug\net8.0-windows\TPsemiFinal.dll
+D:\Codes\C#\TPsemiFinal\TPsemiFinal\obj\Debug\net8.0-windows\refint\TPsemiFinal.dll
+D:\Codes\C#\TPsemiFinal\TPsemiFinal\obj\Debug\net8.0-windows\TPsemiFinal.pdb
+D:\Codes\C#\TPsemiFinal\TPsemiFinal\obj\Debug\net8.0-windows\TPsemiFinal.genruntimeconfig.cache
+D:\Codes\C#\TPsemiFinal\TPsemiFinal\obj\Debug\net8.0-windows\ref\TPsemiFinal.dll
